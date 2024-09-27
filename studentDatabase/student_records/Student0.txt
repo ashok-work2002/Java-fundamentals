@@ -1,0 +1,8 @@
+Name: ash
+ID: 1
+Date of Birth: 12/04/2024
+Subject 1 marks: 92
+Subject 2 marks: 92
+Subject 3 marks: 84
+Subject 4 marks: 84
+Subject 5 marks: 93

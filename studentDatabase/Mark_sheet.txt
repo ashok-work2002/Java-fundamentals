@@ -1,0 +1,3 @@
+Name            Maths      English    Physics    Chemistry  Biology   
+ash             92         92         84         84         93        
+bab             42         14         1          1          3         

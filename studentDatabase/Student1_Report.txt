@@ -1,0 +1,5 @@
+Name: ash
+Student ID: 1
+Date of Birth: 12/04/2024
+Average Score: 89.0
+Status: Pass

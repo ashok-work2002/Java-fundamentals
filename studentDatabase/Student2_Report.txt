@@ -1,0 +1,5 @@
+Name: bab
+Student ID: 2
+Date of Birth: 23/04/2023
+Average Score: 12.2
+Status: Fail

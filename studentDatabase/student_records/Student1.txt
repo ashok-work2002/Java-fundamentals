@@ -1,0 +1,8 @@
+Name: bab
+ID: 2
+Date of Birth: 23/04/2023
+Subject 1 marks: 42
+Subject 2 marks: 14
+Subject 3 marks: 1
+Subject 4 marks: 1
+Subject 5 marks: 3
